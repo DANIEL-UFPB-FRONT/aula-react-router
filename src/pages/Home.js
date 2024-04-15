@@ -8,7 +8,7 @@ function Home() {
             <ul>
                 <li>Route /contact/id (ex: /contact/1 ) to see dynamic routing</li>
                 <li>Route /contact/protected to see redirecting example</li>
-                <li>Any other route diferent from list below (ex: /any) to see not found routing</li>
+                <li>Any route other than those listed above (ex: /any) to see "not found" routing</li>
             </ul>
 
             <hr></hr>
