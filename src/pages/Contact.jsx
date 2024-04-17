@@ -18,8 +18,6 @@ function Contact() {
     else{
         return (
             <div>
-                
-
                 <h1>Contact Page</h1>
                 {id && 
                     <h3>Contact info to user id #{id}</h3>
